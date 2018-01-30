@@ -1,0 +1,34 @@
+h1{
+	color: #AECFCE
+	font-size: 60px;
+	font-family: 'Indie Flower', cursive;
+}
+
+div	{
+	background-color:green
+
+	margin-top:100px;
+	margin-bottom: 50px;
+	margin-left:150px;
+	margin-right:150px;
+
+	border:solid 5px #D5EEFF;
+	padding:50px;
+
+	box-shadow: 10px 5px 10px grey
+}
+
+p {
+	font-weight:bold;
+}
+
+img	{
+	width: 200px;
+}
+
+#avatar	{
+	width:100px;
+}
+.network {
+	width:50px;
+}
